@@ -1,0 +1,32 @@
+/* CSS Document */
+
+.banner {
+	background-color: #696969;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.sub-banner {
+	background-color: #767676;
+	text-align: center;
+}
+
+.back-top {
+	color: #2C4A9A !important;
+}
+
+a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #B0B8E1;
+	font-size: 12;
+}
